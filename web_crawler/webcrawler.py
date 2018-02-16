@@ -128,21 +128,9 @@ while queue:
     
 f = open("crawled_urls.txt","w")
 i = 1
-tof = False
 for url in savedUrlList:
     strcleaned = ''.join([x for x in url if ord(x) < 128])
     f.write(str(i) + ": " + strcleaned + "\n\n")
     i = i + 1
-    '''
-    if i % 2 == 0:
-        f.write(strcleaned)
-        f.write("\n\n")
-        continue
-    
-    else:
-        f.write(str(i) + ': ' + strcleaned)
-        f.write("\n")
-        i = i + 1
-        continue
-    '''    
+   
 f.close()       
