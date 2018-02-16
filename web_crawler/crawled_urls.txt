@@ -1,500 +1,1500 @@
-1: https://en.wikipedia.org/wiki/Information
-2: https://en.wikipedia.org/wiki/Main_Page
-3: https://en.wikipedia.org/wiki/Wikimedia_Foundation
-4: https://en.wikipedia.org/wiki/Geographic_coordinate_system
-5: https://en.wikipedia.org/wiki/45%C3%9790_points
-6: https://en.wikipedia.org/wiki/The_Sydney_Morning_Herald
-7: https://en.wikipedia.org/wiki/Weatherzone
-8: https://en.wikipedia.org/wiki/Yesshop
-9: https://en.wikipedia.org/wiki/2013_New_Zealand_primetime_television_schedule
-10: https://en.wikipedia.org/wiki/ITM_Cup
-11: https://en.wikipedia.org/wiki/Mitre_10_Cup
-12: https://en.wikipedia.org/wiki/Campeonato_Nacional_de_Clubes_(Venezuela)
-13: https://en.wikipedia.org/wiki/Globovisi%C3%B3n
-14: https://en.wikipedia.org/wiki/Flamingo_Televisi%C3%B3n
-15: https://en.wikipedia.org/wiki/Falc%C3%B3n
-16: https://en.wikipedia.org/wiki/Guayana_Esequiba
-17: https://en.wikipedia.org/wiki/Rump_state
-18: https://en.wikipedia.org/wiki/List_of_historical_unrecognized_states
-19: https://en.wikipedia.org/wiki/List_of_historical_unrecognized_states_and_dependencies
-20: https://en.wikipedia.org/wiki/Paul_Magocsi
-21: https://en.wikipedia.org/wiki/Paul_Robert_Magocsi
-22: https://en.wikipedia.org/wiki/SNAC
-23: https://en.wikipedia.org/wiki/Information_science
-24: https://en.wikipedia.org/wiki/Outline_of_social_science
-25: https://en.wikipedia.org/wiki/List_of_environment_research_institutes
-26: https://en.wikipedia.org/wiki/List_of_environmental_research_institutes
-27: https://en.wikipedia.org/wiki/Glossary_of_environmental_science
-28: https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics
-29: https://en.wikipedia.org/wiki/Window_function
-30: https://en.wikipedia.org/wiki/Ronald_W._Schafer
-31: https://en.wikipedia.org/wiki/Simon_Haykin
-32: https://en.wikipedia.org/wiki/International_Union_of_Radio_Science
-33: https://en.wikipedia.org/wiki/TWAS
-34: https://en.wikipedia.org/wiki/The_World_Academy_of_Sciences
-35: https://en.wikipedia.org/wiki/TWAS_Prize
-36: https://en.wikipedia.org/wiki/L%27Or%C3%A9al-UNESCO_Awards_for_Women_in_Science
-37: https://en.wikipedia.org/wiki/Seed_Magazine
-38: https://en.wikipedia.org/wiki/Seed_(magazine)
-39: https://en.wikipedia.org/wiki/ReadWriteWeb
-40: https://en.wikipedia.org/wiki/ReadWrite
-41: https://en.wikipedia.org/wiki/Vlog
-42: https://en.wikipedia.org/wiki/Uses_of_podcasting
-43: https://en.wikipedia.org/wiki/Federal_Communications_Commission
-44: https://en.wikipedia.org/wiki/Biblioteca_Nacional_de_Espa%C3%B1a
-45: https://en.wikipedia.org/wiki/Union_List_of_Artist_Names
-46: https://en.wikipedia.org/wiki/Cultural_Objects_Name_Authority
-47: https://en.wikipedia.org/wiki/Art_%26_Architecture_Thesaurus
-48: https://en.wikipedia.org/wiki/Garden
-49: https://en.wikipedia.org/wiki/Weed_control
-50: https://en.wikipedia.org/wiki/PubMed_Identifier
-51: https://en.wikipedia.org/wiki/PubMed
-52: https://en.wikipedia.org/wiki/Virtual_patient
-53: https://en.wikipedia.org/wiki/American_National_Standards_Institute
-54: https://en.wikipedia.org/wiki/CiNii
-55: https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye
-56: https://en.wikipedia.org/wiki/Book:J._D._Salinger
-57: https://en.wikipedia.org/wiki/Book_talk:J._D._Salinger
-58: https://en.wikipedia.org/wiki/User_talk:Citation_bot
-59: https://en.wikipedia.org/wiki/User:Mike_Christie/Reference_library
-60: https://en.wikipedia.org/wiki/User_talk:Mike_Christie/Reference_library
-61: https://en.wikipedia.org/wiki/User_talk:Ocaasi
-62: https://en.wikipedia.org/wiki/User_talk:Isarra
-63: https://en.wikipedia.org/wiki/User_talk:Hmlarson
-64: https://en.wikipedia.org/wiki/User_talk:Jonowee
-65: https://en.wikipedia.org/wiki/User_talk:Samwalton9
-66: https://en.wikipedia.org/wiki/User_talk:HasteurBot
-67: https://en.wikipedia.org/wiki/User:Hasteur
-68: https://en.wikipedia.org/wiki/User_talk:SW3_5DL
-69: https://en.wikipedia.org/wiki/User_talk:Bzuk
-70: https://en.wikipedia.org/wiki/Linked_structured_data
-71: https://en.wikipedia.org/wiki/Open_energy_system_databases
-72: https://en.wikipedia.org/wiki/Energy_Modeling_Forum
-73: https://en.wikipedia.org/wiki/Policymaker
-74: https://en.wikipedia.org/wiki/DMOZ
-75: https://en.wikipedia.org/wiki/List_of_acquisitions_by_AOL
-76: https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Twitter
-77: https://en.wikipedia.org/wiki/Topsy_Labs
-78: https://en.wikipedia.org/wiki/Book:Apple_Inc.
-79: https://en.wikipedia.org/wiki/Book_talk:Apple_Inc.
-80: https://en.wikipedia.org/wiki/User_talk:Ebe123
-81: https://en.wikipedia.org/wiki/User_talk:The_Novac
-82: https://en.wikipedia.org/wiki/User_talk:Safety_Cap
-83: https://en.wikipedia.org/wiki/User_talk:Yamla
-84: https://en.wikipedia.org/wiki/User_talk:Jinoytommanjaly
-85: https://en.wikipedia.org/wiki/User:Jinoytommanjaly
-86: https://en.wikipedia.org/wiki/Thrissur
-87: https://en.wikipedia.org/wiki/Tiruchirappalli
-88: https://en.wikipedia.org/wiki/St_Johns_Vestry_Anglo_Indian_Higher_Secondary_School
-89: https://en.wikipedia.org/wiki/Vinayaka_Mission%27s_Research_Foundation
-90: https://en.wikipedia.org/wiki/Malaysia
-91: https://en.wikipedia.org/wiki/Historical_Dictionary_of_Switzerland
-92: https://en.wikipedia.org/wiki/Romansh_language
-93: https://en.wikipedia.org/wiki/Book:Switzerland
-94: https://en.wikipedia.org/wiki/Book_talk:Switzerland
-95: https://en.wikipedia.org/wiki/Council_of_States_(Switzerland)
-96: https://en.wikipedia.org/wiki/List_of_legislatures_by_country
-97: https://en.wikipedia.org/wiki/Volksraad
-98: https://en.wikipedia.org/wiki/House_of_Assembly_of_South_Africa
-99: https://en.wikipedia.org/wiki/The_Glasgow_Herald
-100: https://en.wikipedia.org/wiki/The_Herald_(Glasgow)
-101: https://en.wikipedia.org/wiki/Worcester_News
-102: https://en.wikipedia.org/wiki/Yorkshire_Evening_Post
-103: https://en.wikipedia.org/wiki/British_Newspaper_Archive
-104: https://en.wikipedia.org/wiki/Southern_Television
-105: https://en.wikipedia.org/wiki/Television_in_the_United_Kingdom
-106: https://en.wikipedia.org/wiki/Book:United_Kingdom
-107: https://en.wikipedia.org/wiki/Book_talk:United_Kingdom
-108: https://en.wikipedia.org/wiki/List_of_cities_in_the_United_Kingdom
-109: https://en.wikipedia.org/wiki/List_of_towns_and_villages_in_Northern_Ireland
-110: https://en.wikipedia.org/wiki/List_of_towns_in_Svalbard
-111: https://en.wikipedia.org/wiki/Category_talk:Populated_places_in_Svalbard
-112: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Norway
-113: https://en.wikipedia.org/wiki/User_talk:Tim!
-114: https://en.wikipedia.org/wiki/User_talk:Vinegarymass911
-115: https://en.wikipedia.org/wiki/User:Worldbruce
-116: https://en.wikipedia.org/wiki/User_talk:Worldbruce
-117: https://en.wikipedia.org/wiki/User_talk:Nirvik12
-118: https://en.wikipedia.org/wiki/User:Nirvik12
-119: https://en.wikipedia.org/wiki/User_talk:ImageTaggingBot
-120: https://en.wikipedia.org/wiki/User_talk:LuciferZH
-121: https://en.wikipedia.org/wiki/User:LuciferZH
-122: https://en.wikipedia.org/wiki/User_talk:Fandi89
-123: https://en.wikipedia.org/wiki/Astro
-124: https://en.wikipedia.org/wiki/Astros_(disambiguation)
-125: https://en.wikipedia.org/wiki/Astro_(disambiguation)
-126: https://en.wikipedia.org/wiki/Astros_(chocolate)
-127: https://en.wikipedia.org/wiki/Confectionery
-128: https://en.wikipedia.org/wiki/Lists_of_prepared_foods
-129: https://en.wikipedia.org/wiki/Vegetarian_Diet_Pyramid
-130: https://en.wikipedia.org/wiki/Richard_H._Schwartz
-131: https://en.wikipedia.org/wiki/Social_justice
-132: https://en.wikipedia.org/wiki/Poetic_justice
-133: https://en.wikipedia.org/wiki/Tellability
-134: https://en.wikipedia.org/wiki/University_of_Hamburg
-135: https://en.wikipedia.org/wiki/Leipzig_University
-136: https://en.wikipedia.org/wiki/ERASMUS_programme
-137: https://en.wikipedia.org/wiki/Erasmus_Programme
-138: https://en.wikipedia.org/wiki/Public_diplomacy
-139: https://en.wikipedia.org/wiki/Telemarketing
-140: https://en.wikipedia.org/wiki/Vishing
-141: https://en.wikipedia.org/wiki/Voice_phishing
-142: https://en.wikipedia.org/wiki/BBC_News_Online
-143: https://en.wikipedia.org/wiki/The_World_Today_(BBC_World_Service)
-144: https://en.wikipedia.org/wiki/Woofferton_transmitting_station
-145: https://en.wikipedia.org/wiki/Duncan_Campbell_(investigative_journalist)
-146: https://en.wikipedia.org/wiki/Duncan_Campbell_(journalist)
-147: https://en.wikipedia.org/wiki/SIGINT
-148: https://en.wikipedia.org/wiki/Surveillance_issues_in_smart_cities
-149: https://en.wikipedia.org/wiki/Floyd_v._City_of_New_York
-150: https://en.wikipedia.org/wiki/WPIX
-151: https://en.wikipedia.org/wiki/Local_marketing_agreement
-152: https://en.wikipedia.org/wiki/GMA_New_Media
-153: https://en.wikipedia.org/wiki/ZOE_Broadcasting_Network
-154: https://en.wikipedia.org/wiki/Baycomms_Broadcasting_Corporation
-155: https://en.wikipedia.org/wiki/DWEY
-156: https://en.wikipedia.org/wiki/DWAW
-157: https://en.wikipedia.org/wiki/Philippine_general_election,_2013
-158: https://en.wikipedia.org/wiki/List_of_special_elections_to_the_Philippine_Congress
-159: https://en.wikipedia.org/wiki/Vote_counting_in_the_Philippines
-160: https://en.wikipedia.org/wiki/The_Daily_Tribune
-161: https://en.wikipedia.org/wiki/Manila_Chronicle
-162: https://en.wikipedia.org/wiki/Martial_Law_in_the_Philippines
-163: https://en.wikipedia.org/wiki/Martial_law_in_the_Philippines
-164: https://en.wikipedia.org/wiki/Dekada_%2770_(film)
-165: https://en.wikipedia.org/wiki/The_Ghost_Bride
-166: https://en.wikipedia.org/wiki/The_Healing_(film)
-167: https://en.wikipedia.org/wiki/Cinema_Evaluation_Board_of_the_Philippines
-168: https://en.wikipedia.org/wiki/Cinema_Evaluation_Board
-169: https://en.wikipedia.org/wiki/Tax_rebate
-170: https://en.wikipedia.org/wiki/Tax_refund
-171: https://en.wikipedia.org/wiki/Inland_Revenue_Department_(New_Zealand)
-172: https://en.wikipedia.org/wiki/Ministry_for_Women
-173: https://en.wikipedia.org/wiki/Paula_Bennett
-174: https://en.wikipedia.org/wiki/Nuk_Korako
-175: https://en.wikipedia.org/wiki/3_News
-176: https://en.wikipedia.org/wiki/Newshub
-177: https://en.wikipedia.org/wiki/Radio_in_New_Zealand
-178: https://en.wikipedia.org/wiki/2015_New_Zealand_Radio_Awards
-179: https://en.wikipedia.org/wiki/2014_New_Zealand_Radio_Awards
-180: https://en.wikipedia.org/wiki/2013_New_Zealand_Radio_Awards
-181: https://en.wikipedia.org/wiki/New_Zealand_Radio_Awards
-182: https://en.wikipedia.org/wiki/Te_Ara:_The_Encyclopedia_of_New_Zealand
-183: https://en.wikipedia.org/wiki/The_Cyclopedia_of_New_Zealand
-184: https://en.wikipedia.org/wiki/New_Zealand_Electronic_Text_Centre
-185: https://en.wikipedia.org/wiki/Topic_Maps
-186: https://en.wikipedia.org/wiki/ISO_80000-3
-187: https://en.wikipedia.org/wiki/Parsec
-188: https://en.wikipedia.org/wiki/Conversion_of_units
-189: https://en.wikipedia.org/wiki/Book:International_System_of_Units
-190: https://en.wikipedia.org/wiki/Book_talk:International_System_of_Units
-191: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Measurement
-192: https://en.wikipedia.org/wiki/User_talk:Bermicourt
-193: https://en.wikipedia.org/wiki/User_talk:TheDomain
-194: https://en.wikipedia.org/wiki/User_talk:Correogsk
-195: https://en.wikipedia.org/wiki/User_talk:SweetCanadianMullet
-196: https://en.wikipedia.org/wiki/User_talk:Ravenswing
-197: https://en.wikipedia.org/wiki/User:Ravenswing
-198: https://en.wikipedia.org/wiki/User:Interlingua
-199: https://en.wikipedia.org/wiki/Christopher_Cooper
-200: https://en.wikipedia.org/wiki/Chris_Cooper_(disambiguation)
-201: https://en.wikipedia.org/wiki/Christopher_R._Cooper
-202: https://en.wikipedia.org/wiki/Dabney_L._Friedrich
-203: https://en.wikipedia.org/wiki/Federal_Judicial_Center
-204: https://en.wikipedia.org/wiki/Nonprofit_organization
-205: https://en.wikipedia.org/wiki/Warm-glow_giving
-206: https://en.wikipedia.org/wiki/The_New_York_Times_Magazine
-207: https://en.wikipedia.org/wiki/News_magazine
-208: https://en.wikipedia.org/wiki/News_program
-209: https://en.wikipedia.org/wiki/Television_news_screen_layout
-210: https://en.wikipedia.org/wiki/Press_pool
-211: https://en.wikipedia.org/wiki/The_Lobby
-212: https://en.wikipedia.org/wiki/Canberra_Press_Gallery
-213: https://en.wikipedia.org/wiki/The_Advertiser_(Adelaide)
-214: https://en.wikipedia.org/wiki/Guardian_Messenger
-215: https://en.wikipedia.org/wiki/City_Messenger
-216: https://en.wikipedia.org/wiki/City_of_Norwood_Payneham_St_Peters
-217: https://en.wikipedia.org/wiki/City_of_Norwood_Payneham_%26_St_Peters
-218: https://en.wikipedia.org/wiki/Yalata,_South_Australia
-219: https://en.wikipedia.org/wiki/Ceduna,_South_Australia
-220: https://en.wikipedia.org/wiki/High-energy_astronomy
-221: https://en.wikipedia.org/wiki/List_of_women_astronomers
-222: https://en.wikipedia.org/wiki/Annie_Jump_Cannon_Award_in_Astronomy
-223: https://en.wikipedia.org/wiki/Prizes_named_after_people
-224: https://en.wikipedia.org/wiki/List_of_prizes_named_after_people
-225: https://en.wikipedia.org/wiki/List_of_awards_named_after_Governors_General_of_Canada
-226: https://en.wikipedia.org/wiki/Book:Governors_General_of_Canada
-227: https://en.wikipedia.org/wiki/Book_talk:Governors_General_of_Canada
-228: https://en.wikipedia.org/wiki/Sir_Lyman_Poore_Duff
-229: https://en.wikipedia.org/wiki/Ivan_Rand
-230: https://en.wikipedia.org/wiki/Emmett_Matthew_Hall
-231: https://en.wikipedia.org/wiki/Louis-Philippe_Pigeon
-232: https://en.wikipedia.org/wiki/Bertha_Wilson
-233: https://en.wikipedia.org/wiki/Louise_Arbour
-234: https://en.wikipedia.org/wiki/Malcolm_Rowe
-235: https://en.wikipedia.org/wiki/Don_R._Sommerfeldt
-236: https://en.wikipedia.org/wiki/Georgette_Sheridan
-237: https://en.wikipedia.org/wiki/Canadian_federal_election,_1997
-238: https://en.wikipedia.org/wiki/Historical_federal_electoral_districts_of_Canada
-239: https://en.wikipedia.org/wiki/List_of_Canadian_federal_parliaments
-240: https://en.wikipedia.org/wiki/List_of_Northwest_Territories_Legislative_Assemblies
-241: https://en.wikipedia.org/wiki/Yellowknife_South
-242: https://en.wikipedia.org/wiki/Northwest_Territories_general_election,_1999
-243: https://en.wikipedia.org/wiki/Northwest_Territories_jurisdictional_boundaries_plebiscite,_1992
-244: https://en.wikipedia.org/wiki/Peter_Jull
-245: https://en.wikipedia.org/wiki/Australian_National_University
-246: https://en.wikipedia.org/wiki/University_of_Maryland_University_College
-247: https://en.wikipedia.org/wiki/Robert_Caret
-248: https://en.wikipedia.org/wiki/Kim_Schatzel
-249: https://en.wikipedia.org/wiki/John_A._Fallon
-250: https://en.wikipedia.org/wiki/Laura_Dickinson_incident
-251: https://en.wikipedia.org/wiki/Duty_to_warn
-252: https://en.wikipedia.org/wiki/Professional_Psychology
-253: https://en.wikipedia.org/wiki/Professional_Psychology:_Research_and_Practice
-254: https://en.wikipedia.org/wiki/Thomson_Reuters
-255: https://en.wikipedia.org/wiki/Wheaton_Precious_Metals_Corporation
-256: https://en.wikipedia.org/wiki/Iberian_Pyrite_Belt
-257: https://en.wikipedia.org/wiki/Alentejo
-258: https://en.wikipedia.org/wiki/Alentejo_wine
-259: https://en.wikipedia.org/wiki/Oxford_Companion_to_Wine
-260: https://en.wikipedia.org/wiki/The_Oxford_Companion_to_Wine
-261: https://en.wikipedia.org/wiki/Eric_Asimov
-262: https://en.wikipedia.org/wiki/List_of_wine_personalities
-263: https://en.wikipedia.org/wiki/Outline_of_wine
-264: https://en.wikipedia.org/wiki/List_of_wine_producing_regions
-265: https://en.wikipedia.org/wiki/Australian_Wine_and_Brandy_Corporation
-266: https://en.wikipedia.org/wiki/Wine_Australia
-267: https://en.wikipedia.org/wiki/Government_of_Australia
-268: https://en.wikipedia.org/wiki/Department_of_Jobs_and_Small_Business_(Australia)
-269: https://en.wikipedia.org/wiki/Equal_employment_opportunity
-270: https://en.wikipedia.org/wiki/Department_of_Fair_Employment_and_Housing
-271: https://en.wikipedia.org/wiki/California_Department_of_Fair_Employment_and_Housing
-272: https://en.wikipedia.org/wiki/California_Code_of_Regulations
-273: https://en.wikipedia.org/wiki/Boing_Boing
-274: https://en.wikipedia.org/wiki//usr/bin/god
-275: https://en.wikipedia.org/wiki/The_Onion
-276: https://en.wikipedia.org/wiki/Entravision_Communications
-277: https://en.wikipedia.org/wiki/WUVN
-278: https://en.wikipedia.org/wiki/Flagship_(television)
-279: https://en.wikipedia.org/wiki/Zaiky%C5%8D_k%C4%AB_kyoku
-280: https://en.wikipedia.org/wiki/Media_of_Japan
-281: https://en.wikipedia.org/wiki/Media_of_Macau
-282: https://en.wikipedia.org/wiki/Radio_Free_Asia
-283: https://en.wikipedia.org/wiki/Shortwave_broadcasting_in_the_United_States
-284: https://en.wikipedia.org/wiki/Lebanon,_Oregon
-285: https://en.wikipedia.org/wiki/Thomas,_Oregon
-286: https://en.wikipedia.org/wiki/Oregon_Historical_Society
-287: https://en.wikipedia.org/wiki/The_News_Tribune
-288: https://en.wikipedia.org/wiki/Knight_Ridder
-289: https://en.wikipedia.org/wiki/American_Management_Association
-290: https://en.wikipedia.org/wiki/Jacoby,_Sanford_M.
-291: https://en.wikipedia.org/wiki/Sanford_M._Jacoby
-292: https://en.wikipedia.org/wiki/Philip_Taft_Labor_History_Book_Award
-293: https://en.wikipedia.org/wiki/Nancy_Woloch
-294: https://en.wikipedia.org/wiki/Richard_Polenberg
-295: https://en.wikipedia.org/wiki/American_Bar_Association
-296: https://en.wikipedia.org/wiki/National_Law_Review
-297: https://en.wikipedia.org/wiki/The_National_Law_Review
-298: https://en.wikipedia.org/wiki/Adam_Liptak
-299: https://en.wikipedia.org/wiki/C-SPAN
-300: https://en.wikipedia.org/wiki/UPI_Newstime
-301: https://en.wikipedia.org/wiki/Family_Circle
-302: https://en.wikipedia.org/wiki/Women%27s_Health_(magazine)
-303: https://en.wikipedia.org/wiki/Running_Times
-304: https://en.wikipedia.org/wiki/The_Morning_Call
-305: https://en.wikipedia.org/wiki/The_Villanovan
-306: https://en.wikipedia.org/wiki/Jake_Nevin_Field_House
-307: https://en.wikipedia.org/wiki/2016%E2%80%9317_Villanova_Wildcats_women%27s_basketball_team
-308: https://en.wikipedia.org/wiki/AP_Poll
-309: https://en.wikipedia.org/wiki/Peter_Wolfe_(sports_rankings)
-310: https://en.wikipedia.org/wiki/Great_Rose_Bowl_Hoax
-311: https://en.wikipedia.org/wiki/Athenaeum_at_Caltech
-312: https://en.wikipedia.org/wiki/The_Journal_Gazette
-313: https://en.wikipedia.org/wiki/Indiana_State_Road_930
-314: https://en.wikipedia.org/wiki/Federal_Highway_Administration
-315: https://en.wikipedia.org/wiki/Surface_Transportation_Board
-316: https://en.wikipedia.org/wiki/U.S._Court_of_Appeals
-317: https://en.wikipedia.org/wiki/United_States_courts_of_appeals
-318: https://en.wikipedia.org/wiki/Book:United_States
-319: https://en.wikipedia.org/wiki/Book_talk:United_States_-_Complete_series
-320: https://en.wikipedia.org/wiki/User_talk:Steve92341
-321: https://en.wikipedia.org/wiki/User_talk:Jeffreyjhang
-322: https://en.wikipedia.org/wiki/User_talk:Taiwania_Justo
-323: https://en.wikipedia.org/wiki/User_talk:Ajpolino
-324: https://en.wikipedia.org/wiki/Ebola
-325: https://en.wikipedia.org/wiki/Ebola_virus_disease
-326: https://en.wikipedia.org/wiki/Monkeypox
-327: https://en.wikipedia.org/wiki/Gianotti%E2%80%93Crosti_syndrome
-328: https://en.wikipedia.org/wiki/Lichenoid_reaction_of_graft-versus-host_disease
-329: https://en.wikipedia.org/wiki/Oral_manifestations_of_systemic_disease
-330: https://en.wikipedia.org/wiki/Dentition
-331: https://en.wikipedia.org/wiki/Stratum_intermedium
-332: https://en.wikipedia.org/wiki/Amelogenesis
-333: https://en.wikipedia.org/wiki/Dentine
-334: https://en.wikipedia.org/wiki/Mamelon_(dentistry)
-335: https://en.wikipedia.org/wiki/Mamelon_(disambiguation)
-336: https://en.wikipedia.org/wiki/Mamelon
-337: https://en.wikipedia.org/wiki/Mamelon_(volcanology)
-338: https://en.wikipedia.org/wiki/Breast-shaped_hill
-339: https://en.wikipedia.org/wiki/Philip_Coppens_(author)
-340: https://en.wikipedia.org/wiki/The_Guardian_(Nigeria)
-341: https://en.wikipedia.org/wiki/Premium_Times
-342: https://en.wikipedia.org/wiki/Abuja
-343: https://en.wikipedia.org/wiki/Zaria
-344: https://en.wikipedia.org/wiki/Zangon_Kataf
-345: https://en.wikipedia.org/wiki/Postal_code
-346: https://en.wikipedia.org/wiki/QRA_locator
-347: https://en.wikipedia.org/wiki/Radio_Society_of_Great_Britain
-348: https://en.wikipedia.org/wiki/Bedfordshire_on_Sunday
-349: https://en.wikipedia.org/wiki/Milton_Keynes_Citizen
-350: https://en.wikipedia.org/wiki/LSN_Media
-351: https://en.wikipedia.org/wiki/Milton,_Cambridgeshire
-352: https://en.wikipedia.org/wiki/Council_Tax
-353: https://en.wikipedia.org/wiki/Council_Tax_(New_Valuation_Lists_for_England)_Act_2006
-354: https://en.wikipedia.org/wiki/Legislation
-355: https://en.wikipedia.org/wiki/Index_of_law_articles
-356: https://en.wikipedia.org/wiki/Zoning
-357: https://en.wikipedia.org/wiki/Index_of_real_estate_articles
-358: https://en.wikipedia.org/wiki/Yield_spread_premium
-359: https://en.wikipedia.org/wiki/Yield_(finance)
-360: https://en.wikipedia.org/wiki/Voting_interest
-361: https://en.wikipedia.org/wiki/Murdoch_family
-362: https://en.wikipedia.org/wiki/Morgen_Witzel
-363: https://en.wikipedia.org/wiki/University_of_Exeter_Business_School
-364: https://en.wikipedia.org/wiki/Isle_of_Man_International_Business_School
-365: https://en.wikipedia.org/wiki/Centre_for_Manx_Studies
-366: https://en.wikipedia.org/wiki/Manx_National_Heritage
-367: https://en.wikipedia.org/wiki/Raad_ny_Foillan
-368: https://en.wikipedia.org/wiki/TheGuardian.com
-369: https://en.wikipedia.org/wiki/John_Edward_Taylor
-370: https://en.wikipedia.org/wiki/The_Manchester_Guardian
-371: https://en.wikipedia.org/wiki/ProPublica
-372: https://en.wikipedia.org/wiki/Nieman_Foundation_for_Journalism
-373: https://en.wikipedia.org/wiki/Lionel_de_Jersey_Harvard
-374: https://en.wikipedia.org/wiki/Brockley_and_Ladywell_Cemeteries
-375: https://en.wikipedia.org/wiki/Golders_Green_Crematorium
-376: https://en.wikipedia.org/wiki/North_Devon_Crematorium
-377: https://en.wikipedia.org/wiki/Bishop_of_Exeter
-378: https://en.wikipedia.org/wiki/Bishop_of_Meath_and_Kildare
-379: https://en.wikipedia.org/wiki/Diocese_of_Meath_and_Kildare
-380: https://en.wikipedia.org/wiki/Archdeacon_of_Clonmacnoise
-381: https://en.wikipedia.org/wiki/Public_houses_in_Ireland
-382: https://en.wikipedia.org/wiki/Irish_pub
-383: https://en.wikipedia.org/wiki/Australian_pub
-384: https://en.wikipedia.org/wiki/White_Bay_Hotel
-385: https://en.wikipedia.org/wiki/Sydney_Harbour_Foreshore_Authority
-386: https://en.wikipedia.org/wiki/State_Rail_Authority
-387: https://en.wikipedia.org/wiki/Department_of_Railways_New_South_Wales
-388: https://en.wikipedia.org/wiki/Rail_transport
-389: https://en.wikipedia.org/wiki/Train_shed
-390: https://en.wikipedia.org/wiki/Teflon
-391: https://en.wikipedia.org/wiki/Polytetrafluoroethylene
-392: https://en.wikipedia.org/wiki/Resin_identification_code
-393: https://en.wikipedia.org/wiki/Thermosetting_polymer
-394: https://en.wikipedia.org/wiki/Thermoset_polymer_matrix
-395: https://en.wikipedia.org/wiki/Furfural
-396: https://en.wikipedia.org/wiki/Organic_Syntheses
-397: https://en.wikipedia.org/wiki/Organic_Reactions
-398: https://en.wikipedia.org/wiki/Arthur_C._Cope
-399: https://en.wikipedia.org/wiki/Allison_A._Campbell
-400: https://en.wikipedia.org/wiki/Equestrianism
-401: https://en.wikipedia.org/wiki/Winter_Olympic_sports
-402: https://en.wikipedia.org/wiki/Olympic_sports
-403: https://en.wikipedia.org/wiki/134th_IOC_Session
-404: https://en.wikipedia.org/wiki/La_Scala
-405: https://en.wikipedia.org/wiki/Verona_Arena
-406: https://en.wikipedia.org/wiki/Montagnana
-407: https://en.wikipedia.org/wiki/V%C3%B2
-408: https://en.wikipedia.org/wiki/National_Institute_of_Statistics_(Italy)
-409: https://en.wikipedia.org/wiki/OECD
-410: https://en.wikipedia.org/wiki/European_Free_Trade_Association
-411: https://en.wikipedia.org/wiki/Maps_of_present-day_countries_and_dependencies
-412: https://en.wikipedia.org/wiki/List_of_timelines
-413: https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes
-414: https://en.wikipedia.org/wiki/February_11
-415: https://en.wikipedia.org/wiki/February_30
-416: https://en.wikipedia.org/wiki/Ides_of_March
-417: https://en.wikipedia.org/wiki/Caesar_Must_Die
-418: https://en.wikipedia.org/wiki/Like_Crazy_(2016_film)
-419: https://en.wikipedia.org/wiki/The_Leisure_Seeker
-420: https://en.wikipedia.org/wiki/AllMovie
-421: https://en.wikipedia.org/wiki/SideReel
-422: https://en.wikipedia.org/wiki/Facebook_Connect
-423: https://en.wikipedia.org/wiki/OpenSocial
-424: https://en.wikipedia.org/wiki/Unity_(cable_system)
-425: https://en.wikipedia.org/wiki/Hiroshi_Okuda
-426: https://en.wikipedia.org/wiki/Fujio_Cho
-427: https://en.wikipedia.org/wiki/Katsuaki_Watanabe
-428: https://en.wikipedia.org/wiki/2009%E2%80%932010_Toyota_vehicle_recalls
-429: https://en.wikipedia.org/wiki/2009%E2%80%9311_Toyota_vehicle_recalls
-430: https://en.wikipedia.org/wiki/Fuji_Heavy_Industries
-431: https://en.wikipedia.org/wiki/Subaru_Corporation
-432: https://en.wikipedia.org/wiki/Tohatsu
-433: https://en.wikipedia.org/wiki/Dominion_Enterprises
-434: https://en.wikipedia.org/wiki/Landmark_Communications_v._Virginia
-435: https://en.wikipedia.org/wiki/Landmark_Communications,_Inc._v._Virginia
-436: https://en.wikipedia.org/wiki/Boy_Scouts_of_America_v._Dale
-437: https://en.wikipedia.org/wiki/Scouting_in_Texas
-438: https://en.wikipedia.org/wiki/Athens,_Texas
-439: https://en.wikipedia.org/wiki/Zapata,_Texas
-440: https://en.wikipedia.org/wiki/Siesta_Shores,_Texas
-441: https://en.wikipedia.org/wiki/Zip_Code
-442: https://en.wikipedia.org/wiki/Postal_codes_in_Saint_Pierre_and_Miquelon
-443: https://en.wikipedia.org/wiki/Postal_codes_in_France
-444: https://en.wikipedia.org/wiki/Postal_codes_in_Svalbard
-445: https://en.wikipedia.org/wiki/Outline_of_Norway
-446: https://en.wikipedia.org/wiki/List_of_countries_by_current_account_balance
-447: https://en.wikipedia.org/wiki/List_of_top_international_rankings_by_country
-448: https://en.wikipedia.org/wiki/List_of_countries_by_length_of_expressways
-449: https://en.wikipedia.org/wiki/Highway_system_in_Taiwan
-450: https://en.wikipedia.org/wiki/Hong_Kong_Strategic_Route_and_Exit_Number_System
-451: https://en.wikipedia.org/wiki/List_of_tunnels_and_bridges_in_Hong_Kong
-452: https://en.wikipedia.org/wiki/List_of_tunnels_in_Hong_Kong
-453: https://en.wikipedia.org/wiki/List_of_tunnels_in_Turkey
-454: https://en.wikipedia.org/wiki/Bosporus_Water_Tunnel
-455: https://en.wikipedia.org/wiki/Blue_Tunnel_Project
-456: https://en.wikipedia.org/wiki/Water_supply
-457: https://en.wikipedia.org/wiki/Water_resource_policy
-458: https://en.wikipedia.org/wiki/Upwelling
-459: https://en.wikipedia.org/wiki/Glossary_of_underwater_diving_terminology
-460: https://en.wikipedia.org/wiki/List_of_sports_terms_named_after_people
-461: https://en.wikipedia.org/wiki/Rito_Romero
-462: https://en.wikipedia.org/wiki/Bugsy_McGraw
-463: https://en.wikipedia.org/wiki/Wrestling_Observer_Newsletter_awards
-464: https://en.wikipedia.org/wiki/List_of_Wrestling_Observer_Newsletter_awards
-465: https://en.wikipedia.org/wiki/Live_Audio_Wrestling
-466: https://en.wikipedia.org/wiki/Rob_Terry
-467: https://en.wikipedia.org/wiki/Tommy_Dreamer
-468: https://en.wikipedia.org/wiki/Leonard_Asper
-469: https://en.wikipedia.org/wiki/Anthem_Sports_%26_Entertainment
-470: https://en.wikipedia.org/wiki/World_of_Sport_Wrestling
-471: https://en.wikipedia.org/wiki/World_of_Sport_(UK_TV_series)
-472: https://en.wikipedia.org/wiki/List_of_professional_wrestling_television_series
-473: https://en.wikipedia.org/wiki/Amherst_College
-474: https://en.wikipedia.org/wiki/Wheaton_College_(Illinois)
-475: https://en.wikipedia.org/wiki/Weston,_DuPage_County,_Illinois
-476: https://en.wikipedia.org/wiki/United_States_Atomic_Energy_Commission
-477: https://en.wikipedia.org/wiki/Louie_Vitale
-478: https://en.wikipedia.org/wiki/Louis_Vitale
-479: https://en.wikipedia.org/wiki/Silkwood
-480: https://en.wikipedia.org/wiki/I_Feel_Bad_About_My_Neck
-481: https://en.wikipedia.org/wiki/List_of_The_New_York_Times_Non-Fiction_Best_Sellers
-482: https://en.wikipedia.org/wiki/Lists_of_The_New_York_Times_Non-Fiction_Best_Sellers
-483: https://en.wikipedia.org/wiki/Outline_of_books
-484: https://en.wikipedia.org/wiki/Charles_Stanhope,_3rd_Earl_Stanhope
-485: https://en.wikipedia.org/wiki/Philip_Henry_Stanhope,_4th_Earl_Stanhope
-486: https://en.wikipedia.org/wiki/Philip_Henry_Stanhope,_5th_Earl_Stanhope
-487: https://en.wikipedia.org/wiki/Thomas_Wyse
-488: https://en.wikipedia.org/wiki/Peter_Campbell_Scarlett
-489: https://en.wikipedia.org/wiki/Spenser_St._John
-490: https://en.wikipedia.org/wiki/Smith,_Elder_%26_Co.
-491: https://en.wikipedia.org/wiki/Leonard_Huxley_(writer)
-492: https://en.wikipedia.org/wiki/Charterhouse_School
-493: https://en.wikipedia.org/wiki/Surrey_County_Cricket_Club_in_2005
-494: https://en.wikipedia.org/wiki/Oxford_UCCE_and_Oxford_University_in_2005
-495: https://en.wikipedia.org/wiki/Anirudh_Singh_(cricketer)
-496: https://en.wikipedia.org/wiki/List_of_Hyderabad_cricketers
-497: https://en.wikipedia.org/wiki/List_of_Vidarbha_cricketers
-498: https://en.wikipedia.org/wiki/Cricinfo
-499: https://en.wikipedia.org/wiki/ESPN_Wide_World_of_Sports_Complex
-500: https://en.wikipedia.org/wiki/2018_Orlando_City_SC_season
+1: Video game - Wikipedia
+https://en.wikipedia.org/wiki/Video_game
+
+2: Virtual reality - Wikipedia
+https://en.wikipedia.org/wiki/Virtual_reality
+
+3: Pong - Wikipedia
+https://en.wikipedia.org/wiki/Pong
+
+4: National Videogame Museum - Wikipedia
+https://en.wikipedia.org/wiki/National_Videogame_Museum
+
+5: Arcade game - Wikipedia
+https://en.wikipedia.org/wiki/Arcade_game
+
+6: Console game - Wikipedia
+https://en.wikipedia.org/wiki/Console_game
+
+7: Video game console - Wikipedia
+https://en.wikipedia.org/wiki/Video_game_console
+
+8: Home video game console - Wikipedia
+https://en.wikipedia.org/wiki/Home_video_game_console
+
+9: Electronic game - Wikipedia
+https://en.wikipedia.org/wiki/Electronic_game
+
+10: Audio game - Wikipedia
+https://en.wikipedia.org/wiki/Audio_game
+
+11: Handheld electronic game - Wikipedia
+https://en.wikipedia.org/wiki/Handheld_electronic_game
+
+12: Handheld video game - Wikipedia
+https://en.wikipedia.org/wiki/Handheld_video_game
+
+13: Handheld game console - Wikipedia
+https://en.wikipedia.org/wiki/Handheld_game_console
+
+14: Mobile game - Wikipedia
+https://en.wikipedia.org/wiki/Mobile_game
+
+15: Online game - Wikipedia
+https://en.wikipedia.org/wiki/Online_game
+
+16: Social-network game - Wikipedia
+https://en.wikipedia.org/wiki/Social_network_game
+
+17: PC game - Wikipedia
+https://en.wikipedia.org/wiki/PC_game
+
+18: Linux gaming - Wikipedia
+https://en.wikipedia.org/wiki/Linux_gaming
+
+19: Mac gaming - Wikipedia
+https://en.wikipedia.org/wiki/Mac_gaming
+
+20: Video game genre - Wikipedia
+https://en.wikipedia.org/wiki/Video_game_genre
+
+21: Action game - Wikipedia
+https://en.wikipedia.org/wiki/Action_game
+
+22: Beat 'em up - Wikipedia
+https://en.wikipedia.org/wiki/Beat_%27em_up
+
+23: Fighting game - Wikipedia
+https://en.wikipedia.org/wiki/Fighting_game
+
+24: Platform game - Wikipedia
+https://en.wikipedia.org/wiki/Platform_game
+
+25: Survival game - Wikipedia
+https://en.wikipedia.org/wiki/Survival_game
+
+26: Action-adventure game - Wikipedia
+https://en.wikipedia.org/wiki/Action-adventure_game
+
+27: Stealth game - Wikipedia
+https://en.wikipedia.org/wiki/Stealth_game
+
+28: Survival horror - Wikipedia
+https://en.wikipedia.org/wiki/Survival_horror
+
+29: Adventure game - Wikipedia
+https://en.wikipedia.org/wiki/Adventure_game
+
+30: Interactive fiction - Wikipedia
+https://en.wikipedia.org/wiki/Interactive_fiction
+
+31: Interactive movie - Wikipedia
+https://en.wikipedia.org/wiki/Interactive_movie
+
+32: Visual novel - Wikipedia
+https://en.wikipedia.org/wiki/Visual_novel
+
+33: Role-playing video game - Wikipedia
+https://en.wikipedia.org/wiki/Role-playing_video_game
+
+34: Action role-playing game - Wikipedia
+https://en.wikipedia.org/wiki/Action_role-playing_game
+
+35: Tactical role-playing game - Wikipedia
+https://en.wikipedia.org/wiki/Tactical_role-playing_game
+
+36: Simulation video game - Wikipedia
+https://en.wikipedia.org/wiki/Simulation_video_game
+
+37: Construction and management simulation - Wikipedia
+https://en.wikipedia.org/wiki/Construction_and_management_simulation
+
+38: Life simulation game - Wikipedia
+https://en.wikipedia.org/wiki/Life_simulation_game
+
+39: Sports game - Wikipedia
+https://en.wikipedia.org/wiki/Sports_game
+
+40: Strategy video game - Wikipedia
+https://en.wikipedia.org/wiki/Strategy_video_game
+
+41: Multiplayer online battle arena - Wikipedia
+https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena
+
+42: Real-time strategy - Wikipedia
+https://en.wikipedia.org/wiki/Real-time_strategy
+
+43: Real-time tactics - Wikipedia
+https://en.wikipedia.org/wiki/Real-time_tactics
+
+44: Massively multiplayer online game - Wikipedia
+https://en.wikipedia.org/wiki/Massively_multiplayer_online_game
+
+45: Lists of video games - Wikipedia
+https://en.wikipedia.org/wiki/Lists_of_video_games
+
+46: List of arcade video games - Wikipedia
+https://en.wikipedia.org/wiki/List_of_arcade_video_games
+
+47: List of best-selling video games - Wikipedia
+https://en.wikipedia.org/wiki/List_of_best-selling_video_games
+
+48: List of best-selling video game franchises - Wikipedia
+https://en.wikipedia.org/wiki/List_of_best-selling_video_game_franchises
+
+49: List of video games considered the best - Wikipedia
+https://en.wikipedia.org/wiki/List_of_video_games_considered_the_best
+
+50: List of Game of the Year awards - Wikipedia
+https://en.wikipedia.org/wiki/List_of_Game_of_the_Year_awards
+
+51: List of video games notable for negative reception - Wikipedia
+https://en.wikipedia.org/wiki/List_of_video_games_notable_for_negative_reception
+
+52: Video game development - Wikipedia
+https://en.wikipedia.org/wiki/Video_game_development
+
+53: Artificial intelligence (video games) - Wikipedia
+https://en.wikipedia.org/wiki/Artificial_intelligence_(video_games)
+
+54: Game design - Wikipedia
+https://en.wikipedia.org/wiki/Game_design
+
+55: Game programming - Wikipedia
+https://en.wikipedia.org/wiki/Game_programming
+
+56: Level design - Wikipedia
+https://en.wikipedia.org/wiki/Level_design
+
+57: Video game art - Wikipedia
+https://en.wikipedia.org/wiki/Video_game_art
+
+58: Video game graphics - Wikipedia
+https://en.wikipedia.org/wiki/Video_game_graphics
+
+59: Video game music - Wikipedia
+https://en.wikipedia.org/wiki/Video_game_music
+
+60: Display device - Wikipedia
+https://en.wikipedia.org/wiki/Display_device
+
+61: Computer monitor - Wikipedia
+https://en.wikipedia.org/wiki/Computer_monitor
+
+62: Video games as an art form - Wikipedia
+https://en.wikipedia.org/wiki/Video_games_as_an_art_form
+
+63: Mainframe computer - Wikipedia
+https://en.wikipedia.org/wiki/Mainframe_computer
+
+64: Mobile device - Wikipedia
+https://en.wikipedia.org/wiki/Mobile_device
+
+65: Currency detector - Wikipedia
+https://en.wikipedia.org/wiki/Currency_detector
+
+66: Amusement arcade - Wikipedia
+https://en.wikipedia.org/wiki/Amusement_arcade
+
+67: PlayStation 4 - Wikipedia
+https://en.wikipedia.org/wiki/PlayStation_4
+
+68: Xbox One - Wikipedia
+https://en.wikipedia.org/wiki/Xbox_One
+
+69: Wii U - Wikipedia
+https://en.wikipedia.org/wiki/Wii_U
+
+70: Smartphone - Wikipedia
+https://en.wikipedia.org/wiki/Smartphone
+
+71: Input device - Wikipedia
+https://en.wikipedia.org/wiki/Input_device
+
+72: Game controller - Wikipedia
+https://en.wikipedia.org/wiki/Game_controller
+
+73: Gamepad - Wikipedia
+https://en.wikipedia.org/wiki/Gamepad
+
+74: Joystick - Wikipedia
+https://en.wikipedia.org/wiki/Joystick
+
+75: Computer mouse - Wikipedia
+https://en.wikipedia.org/wiki/Mouse_(computing)
+
+76: Computer keyboard - Wikipedia
+https://en.wikipedia.org/wiki/Keyboard_(computing)
+
+77: Touchscreen - Wikipedia
+https://en.wikipedia.org/wiki/Touchscreen
+
+78: Kinect - Wikipedia
+https://en.wikipedia.org/wiki/Kinect
+
+79: Head-mounted display - Wikipedia
+https://en.wikipedia.org/wiki/Head-mounted_display
+
+80: Headphones - Wikipedia
+https://en.wikipedia.org/wiki/Headphones
+
+81: Haptic technology - Wikipedia
+https://en.wikipedia.org/wiki/Haptic_technology
+
+82: Haptic technology - Wikipedia
+https://en.wikipedia.org/wiki/Force_feedback
+
+83: Peripheral - Wikipedia
+https://en.wikipedia.org/wiki/Peripheral
+
+84: Video game industry - Wikipedia
+https://en.wikipedia.org/wiki/Video_game_industry
+
+85: History of video games - Wikipedia
+https://en.wikipedia.org/wiki/History_of_video_games
+
+86: Early history of video games - Wikipedia
+https://en.wikipedia.org/wiki/Early_history_of_video_games
+
+87: Cathode ray tube - Wikipedia
+https://en.wikipedia.org/wiki/Cathode_ray_tube
+
+88: OXO - Wikipedia
+https://en.wikipedia.org/wiki/OXO
+
+89: Tennis for Two - Wikipedia
+https://en.wikipedia.org/wiki/Tennis_for_Two
+
+90: Spacewar! - Wikipedia
+https://en.wikipedia.org/wiki/Spacewar!
+
+91: Massachusetts Institute of Technology - Wikipedia
+https://en.wikipedia.org/wiki/MIT
+
+92: PDP-1 - Wikipedia
+https://en.wikipedia.org/wiki/PDP-1
+
+93: Atari - Wikipedia
+https://en.wikipedia.org/wiki/Atari
+
+94: Digital Equipment Corporation - Wikipedia
+https://en.wikipedia.org/wiki/Digital_Equipment_Corporation
+
+95: Nolan Bushnell - Wikipedia
+https://en.wikipedia.org/wiki/Nolan_Bushnell
+
+96: Game Developers Conference - Wikipedia
+https://en.wikipedia.org/wiki/Game_Developers_Conference
+
+97: Computer Space - Wikipedia
+https://en.wikipedia.org/wiki/Computer_Space
+
+98: Magnavox Odyssey - Wikipedia
+https://en.wikipedia.org/wiki/Magnavox_Odyssey
+
+99: Ralph H. Baer - Wikipedia
+https://en.wikipedia.org/wiki/Ralph_H._Baer
+
+100: Atari, Inc. - Wikipedia
+https://en.wikipedia.org/wiki/Atari,_Inc.
+
+101: Video game console - Wikipedia
+https://en.wikipedia.org/wiki/Video_game_crash_of_1977
+
+102: Taito - Wikipedia
+https://en.wikipedia.org/wiki/Taito_Corporation
+
+103: Space Invaders - Wikipedia
+https://en.wikipedia.org/wiki/Space_Invaders
+
+104: Golden age of arcade video games - Wikipedia
+https://en.wikipedia.org/wiki/Golden_age_of_arcade_video_games
+
+105: Video game culture - Wikipedia
+https://en.wikipedia.org/wiki/Video_game_culture
+
+106: Atari 2600 - Wikipedia
+https://en.wikipedia.org/wiki/Atari_2600
+
+107: Killer application - Wikipedia
+https://en.wikipedia.org/wiki/Killer_app
+
+108: Second generation of video game consoles - Wikipedia
+https://en.wikipedia.org/wiki/History_of_video_game_consoles_(second_generation)
+
+109: Video game crash of 1983 - Wikipedia
+https://en.wikipedia.org/wiki/North_American_video_game_crash_of_1983
+
+110: Nintendo Entertainment System - Wikipedia
+https://en.wikipedia.org/wiki/Nintendo_Entertainment_System
+
+111: Third generation of video game consoles - Wikipedia
+https://en.wikipedia.org/wiki/History_of_video_game_consoles_(third_generation)
+
+112: Personal digital assistant - Wikipedia
+https://en.wikipedia.org/wiki/PDA
+
+113: Graphing calculator - Wikipedia
+https://en.wikipedia.org/wiki/Graphing_calculator
+
+114: Display device - Wikipedia
+https://en.wikipedia.org/wiki/Video_monitor
+
+115: Mod (video gaming) - Wikipedia
+https://en.wikipedia.org/wiki/Mod_(video_gaming)
+
+116: Xbox 360 - Wikipedia
+https://en.wikipedia.org/wiki/Xbox_360
+
+117: Television set - Wikipedia
+https://en.wikipedia.org/wiki/Television_set
+
+118: Composite monitor - Wikipedia
+https://en.wikipedia.org/wiki/Composite_monitor
+
+119: Personal computer - Wikipedia
+https://en.wikipedia.org/wiki/Personal_computer
+
+120: Xbox - Wikipedia
+https://en.wikipedia.org/wiki/Xbox
+
+121: PlayStation - Wikipedia
+https://en.wikipedia.org/wiki/PlayStation
+
+122: Nintendo - Wikipedia
+https://en.wikipedia.org/wiki/Nintendo
+
+123: Game Boy - Wikipedia
+https://en.wikipedia.org/wiki/Game_Boy
+
+124: Light gun - Wikipedia
+https://en.wikipedia.org/wiki/Light_gun
+
+125: Arcade cabinet - Wikipedia
+https://en.wikipedia.org/wiki/Arcade_cabinet
+
+126: Cathode ray tube - Wikipedia
+https://en.wikipedia.org/wiki/CRT_screen
+
+127: Amusement arcade - Wikipedia
+https://en.wikipedia.org/wiki/Video_arcade
+
+128: Cross-platform - Wikipedia
+https://en.wikipedia.org/wiki/Cross-platform
+
+129: Tablet computer - Wikipedia
+https://en.wikipedia.org/wiki/Tablet_computer
+
+130: Adobe Flash - Wikipedia
+https://en.wikipedia.org/wiki/Adobe_Flash
+
+131: iOS - Wikipedia
+https://en.wikipedia.org/wiki/IOS
+
+132: Android (operating system) - Wikipedia
+https://en.wikipedia.org/wiki/Android_(operating_system)
+
+133: Mobile game - Wikipedia
+https://en.wikipedia.org/wiki/Mobile_gaming
+
+134: Augmented reality - Wikipedia
+https://en.wikipedia.org/wiki/Augmented_reality
+
+135: Microtransaction - Wikipedia
+https://en.wikipedia.org/wiki/Microtransactions
+
+136: Stereoscopy - Wikipedia
+https://en.wikipedia.org/wiki/Stereoscopy
+
+137: Computer graphics - Wikipedia
+https://en.wikipedia.org/wiki/Computer_graphics
+
+138: PlayStation Eye - Wikipedia
+https://en.wikipedia.org/wiki/PlayStation_Eye
+
+139: Massively multiplayer online role-playing game - Wikipedia
+https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game
+
+140: Casual game - Wikipedia
+https://en.wikipedia.org/wiki/Casual_game
+
+141: Microsoft Windows - Wikipedia
+https://en.wikipedia.org/wiki/Microsoft_Windows
+
+142: Puzzle video game - Wikipedia
+https://en.wikipedia.org/wiki/Hidden_object
+
+143: Puzzle video game - Wikipedia
+https://en.wikipedia.org/wiki/Puzzle_video_game
+
+144: Tower defense - Wikipedia
+https://en.wikipedia.org/wiki/Tower_defense
+
+145: PopCap Games - Wikipedia
+https://en.wikipedia.org/wiki/PopCap_Games
+
+146: Zylom - Wikipedia
+https://en.wikipedia.org/wiki/Zylom
+
+147: GameHouse - Wikipedia
+https://en.wikipedia.org/wiki/GameHouse
+
+148: PlayStation Network - Wikipedia
+https://en.wikipedia.org/wiki/PlayStation_Network
+
+149: WiiWare - Wikipedia
+https://en.wikipedia.org/wiki/WiiWare
+
+150: Xbox Live - Wikipedia
+https://en.wikipedia.org/wiki/Xbox_Live
+
+151: Serious game - Wikipedia
+https://en.wikipedia.org/wiki/Serious_game
+
+152: Exergaming - Wikipedia
+https://en.wikipedia.org/wiki/Exergaming
+
+153: Microsoft Flight Simulator - Wikipedia
+https://en.wikipedia.org/wiki/Microsoft_Flight_Simulator
+
+154: Second Life - Wikipedia
+https://en.wikipedia.org/wiki/Second_Life
+
+155: Massachusetts Institute of Technology - Wikipedia
+https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology
+
+156: IBM - Wikipedia
+https://en.wikipedia.org/wiki/IBM
+
+157: Newsgame - Wikipedia
+https://en.wikipedia.org/wiki/Newsgame
+
+158: Educational video game - Wikipedia
+https://en.wikipedia.org/wiki/Educational_video_games
+
+159: Super Nintendo Entertainment System - Wikipedia
+https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System
+
+160: PC game - Wikipedia
+https://en.wikipedia.org/wiki/Personal_computer_game
+
+161: Dance pad - Wikipedia
+https://en.wikipedia.org/wiki/Dance_pad
+
+162: Digital camera - Wikipedia
+https://en.wikipedia.org/wiki/Digital_camera
+
+163: Motion controller - Wikipedia
+https://en.wikipedia.org/wiki/Motion_controller
+
+164: Video game development - Wikipedia
+https://en.wikipedia.org/wiki/Game_development
+
+165: Video game industry - Wikipedia
+https://en.wikipedia.org/wiki/Video_game_industry_practices
+
+166: Virtual camera system - Wikipedia
+https://en.wikipedia.org/wiki/Virtual_camera_system
+
+167: Video game developer - Wikipedia
+https://en.wikipedia.org/wiki/Video_game_developer
+
+168: Video game programmer - Wikipedia
+https://en.wikipedia.org/wiki/Game_programmer
+
+169: Game design - Wikipedia
+https://en.wikipedia.org/wiki/Game_designer
+
+170: Random-access memory - Wikipedia
+https://en.wikipedia.org/wiki/RAM
+
+171: Personal digital assistant - Wikipedia
+https://en.wikipedia.org/wiki/PDAs
+
+172: Downloadable content - Wikipedia
+https://en.wikipedia.org/wiki/Downloadable_content
+
+173: Digital distribution - Wikipedia
+https://en.wikipedia.org/wiki/Digital_distribution
+
+174: Rockstar Games - Wikipedia
+https://en.wikipedia.org/wiki/Rockstar_Games
+
+175: Grand Theft Auto IV - Wikipedia
+https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV
+
+176: Grand Theft Auto IV The Lost and Damned - Wikipedia
+https://en.wikipedia.org/wiki/Grand_Theft_Auto:_The_Lost_and_Damned
+
+177: Grand Theft Auto The Ballad of Gay Tony - Wikipedia
+https://en.wikipedia.org/wiki/Grand_Theft_Auto:_The_Ballad_of_Gay_Tony
+
+178: Fallout 3 - Wikipedia
+https://en.wikipedia.org/wiki/Fallout_3
+
+179: Fallout 3 downloadable content - Wikipedia
+https://en.wikipedia.org/wiki/Fallout_3_downloadable_content
+
+180: Call of Duty - Wikipedia
+https://en.wikipedia.org/wiki/Call_of_Duty
+
+181: Metro Last Light - Wikipedia
+https://en.wikipedia.org/wiki/Metro:_Last_Light
+
+182: Dead Space (series) - Wikipedia
+https://en.wikipedia.org/wiki/Dead_Space_(series)
+
+183: Just Cause 2 - Wikipedia
+https://en.wikipedia.org/wiki/Just_Cause_2
+
+184: LittleBigPlanet - Wikipedia
+https://en.wikipedia.org/wiki/LittleBigPlanet
+
+185: Minecraft - Wikipedia
+https://en.wikipedia.org/wiki/Minecraft
+
+186: SingStar - Wikipedia
+https://en.wikipedia.org/wiki/SingStar
+
+187: Rock Band - Wikipedia
+https://en.wikipedia.org/wiki/Rock_Band
+
+188: Guitar Hero - Wikipedia
+https://en.wikipedia.org/wiki/Guitar_Hero
+
+189: Expansion pack - Wikipedia
+https://en.wikipedia.org/wiki/Expansion_pack
+
+190: Bungie - Wikipedia
+https://en.wikipedia.org/wiki/Bungie
+
+191: Destiny (video game) - Wikipedia
+https://en.wikipedia.org/wiki/Destiny_(video_game)
+
+192: Destiny Rise of Iron - Wikipedia
+https://en.wikipedia.org/wiki/Destiny:_Rise_of_Iron
+
+193: Ubisoft - Wikipedia
+https://en.wikipedia.org/wiki/Ubisoft
+
+194: Assassin's Creed IV Black Flag - Wikipedia
+https://en.wikipedia.org/wiki/Assassin%27s_Creed_IV:_Black_Flag
+
+195: Mod (video gaming) - Wikipedia
+https://en.wikipedia.org/wiki/Mod_(computer_gaming)
+
+196: id Software - Wikipedia
+https://en.wikipedia.org/wiki/Id_Software
+
+197: Valve Corporation - Wikipedia
+https://en.wikipedia.org/wiki/Valve_Corporation
+
+198: Crytek - Wikipedia
+https://en.wikipedia.org/wiki/Crytek
+
+199: Bethesda Softworks - Wikipedia
+https://en.wikipedia.org/wiki/Bethesda_Softworks
+
+200: Epic Games - Wikipedia
+https://en.wikipedia.org/wiki/Epic_Games
+
+201: Blizzard Entertainment - Wikipedia
+https://en.wikipedia.org/wiki/Blizzard_Entertainment
+
+202: Half-Life (video game) - Wikipedia
+https://en.wikipedia.org/wiki/Half-Life_(video_game)
+
+203: Counter-Strike (video game) - Wikipedia
+https://en.wikipedia.org/wiki/Counter-Strike_(video_game)
+
+204: Cheating in video games - Wikipedia
+https://en.wikipedia.org/wiki/Cheating_(video_games)
+
+205: Cheating in video games - Wikipedia
+https://en.wikipedia.org/wiki/Cheat_codes
+
+206: Cheat cartridge - Wikipedia
+https://en.wikipedia.org/wiki/Cheat_cartridge
+
+207: Glitch - Wikipedia
+https://en.wikipedia.org/wiki/Glitch
+
+208: Easter egg (media) - Wikipedia
+https://en.wikipedia.org/wiki/Easter_egg_(media)
+
+209: Game studies - Wikipedia
+https://en.wikipedia.org/wiki/Game_studies
+
+210: Game studies - Wikipedia
+https://en.wikipedia.org/wiki/Ludology
+
+211: Tron - Wikipedia
+https://en.wikipedia.org/wiki/Tron
+
+212: The Last Starfighter - Wikipedia
+https://en.wikipedia.org/wiki/The_Last_Starfighter
+
+213: Tomb Raider - Wikipedia
+https://en.wikipedia.org/wiki/Tomb_Raider
+
+214: Lara Croft - Wikipedia
+https://en.wikipedia.org/wiki/Lara_Croft
+
+215: Video game console emulator - Wikipedia
+https://en.wikipedia.org/wiki/Video_game_console_emulator
+
+216: Project64 - Wikipedia
+https://en.wikipedia.org/wiki/Project64
+
+217: Nintendo 64 - Wikipedia
+https://en.wikipedia.org/wiki/Nintendo_64
+
+218: Star Fox 64 - Wikipedia
+https://en.wikipedia.org/wiki/Star_Fox_64
+
+219: Windows 8 - Wikipedia
+https://en.wikipedia.org/wiki/Windows_8
+
+220: ROM hacking - Wikipedia
+https://en.wikipedia.org/wiki/ROM_hacking
+
+221: Fan translation of video games - Wikipedia
+https://en.wikipedia.org/wiki/Fan_translation_of_video_games
+
+222: Virtual Console - Wikipedia
+https://en.wikipedia.org/wiki/Virtual_Console
+
+223: Wii - Wikipedia
+https://en.wikipedia.org/wiki/Wii
+
+224: Nintendo 3DS - Wikipedia
+https://en.wikipedia.org/wiki/Nintendo_3DS
+
+225: Microsoft - Wikipedia
+https://en.wikipedia.org/wiki/Microsoft
+
+226: Sony - Wikipedia
+https://en.wikipedia.org/wiki/Sony
+
+227: PlayStation 2 - Wikipedia
+https://en.wikipedia.org/wiki/PlayStation_2
+
+228: Bleem! - Wikipedia
+https://en.wikipedia.org/wiki/Bleem!
+
+229: Gamer - Wikipedia
+https://en.wikipedia.org/wiki/Gamer
+
+230: First-person shooter - Wikipedia
+https://en.wikipedia.org/wiki/First-person_shooter
+
+231: Women and video games - Wikipedia
+https://en.wikipedia.org/wiki/Women_and_video_games
+
+232: Entertainment Software Association - Wikipedia
+https://en.wikipedia.org/wiki/Entertainment_Software_Association
+
+233: Gaymer - Wikipedia
+https://en.wikipedia.org/wiki/Gaymer
+
+234: New media - Wikipedia
+https://en.wikipedia.org/wiki/New_media
+
+235: Multiplayer video game - Wikipedia
+https://en.wikipedia.org/wiki/Multiplayer_video_game
+
+236: eSports - Wikipedia
+https://en.wikipedia.org/wiki/Esports
+
+237: Social media - Wikipedia
+https://en.wikipedia.org/wiki/Social_media
+
+238: Multiplayer video game - Wikipedia
+https://en.wikipedia.org/wiki/Multiplayer_video_games
+
+239: eSports - Wikipedia
+https://en.wikipedia.org/wiki/Electronic_Sports
+
+240: Hotseat (multiplayer mode) - Wikipedia
+https://en.wikipedia.org/wiki/Hotseat_(multiplayer_mode)
+
+241: Multitap - Wikipedia
+https://en.wikipedia.org/wiki/Multitap
+
+242: Commodore International - Wikipedia
+https://en.wikipedia.org/wiki/Commodore_International
+
+243: MUD - Wikipedia
+https://en.wikipedia.org/wiki/MUD
+
+244: Eve Online - Wikipedia
+https://en.wikipedia.org/wiki/Eve_Online
+
+245: Video game controversies - Wikipedia
+https://en.wikipedia.org/wiki/Video_game_behavioral_effects
+
+246: Monopoly (game) - Wikipedia
+https://en.wikipedia.org/wiki/Monopoly_(game)
+
+247: HUD (video gaming) - Wikipedia
+https://en.wikipedia.org/wiki/HUD_(computer_gaming)
+
+248: Tetris - Wikipedia
+https://en.wikipedia.org/wiki/Tetris
+
+249: Video game controversies - Wikipedia
+https://en.wikipedia.org/wiki/Video_game_controversies
+
+250: Advertising in video games - Wikipedia
+https://en.wikipedia.org/wiki/Advergaming
+
+251: Video game addiction - Wikipedia
+https://en.wikipedia.org/wiki/Video_game_addiction
+
+252: Video games as an art form - Wikipedia
+https://en.wikipedia.org/wiki/Games_as_art
+
+253: Video game content rating system - Wikipedia
+https://en.wikipedia.org/wiki/Video_game_content_rating_system
+
+254: Rabbids Go Home - Wikipedia
+https://en.wikipedia.org/wiki/Rabbids_Go_Home
+
+255: Entertainment Software Rating Board - Wikipedia
+https://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board
+
+256: Manhunt 2 - Wikipedia
+https://en.wikipedia.org/wiki/Manhunt_2
+
+257: PC game - Wikipedia
+https://en.wikipedia.org/wiki/PC_games
+
+258: Browser game - Wikipedia
+https://en.wikipedia.org/wiki/Browser-based_game
+
+259: Personal digital assistant - Wikipedia
+https://en.wikipedia.org/wiki/Personal_digital_assistant
+
+260: Federal Department for Media Harmful to Young Persons - Wikipedia
+https://en.wikipedia.org/wiki/Bundespr%C3%BCfstelle_f%C3%BCr_jugendgef%C3%A4hrdende_Medien
+
+261: Free-to-play - Wikipedia
+https://en.wikipedia.org/wiki/Free-to-play
+
+262: Social-network game - Wikipedia
+https://en.wikipedia.org/wiki/Social_games
+
+263: Golden age of arcade video games - Wikipedia
+https://en.wikipedia.org/wiki/Golden_age_of_video_arcade_games
+
+264: Video gaming in Japan - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_Japan
+
+265: Video gaming in South Korea - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_South_Korea
+
+266: List of gaming conventions - Wikipedia
+https://en.wikipedia.org/wiki/List_of_gaming_conventions
+
+267: Gamescom - Wikipedia
+https://en.wikipedia.org/wiki/Gamescom
+
+268: Gaming convention - Wikipedia
+https://en.wikipedia.org/wiki/Gaming_convention
+
+269: Electronic Entertainment Expo - Wikipedia
+https://en.wikipedia.org/wiki/Electronic_Entertainment_Expo
+
+270: Tokyo Game Show - Wikipedia
+https://en.wikipedia.org/wiki/Tokyo_Game_Show
+
+271: Brasil Game Show - Wikipedia
+https://en.wikipedia.org/wiki/Brasil_Game_Show
+
+272: EB Games Expo - Wikipedia
+https://en.wikipedia.org/wiki/EB_Games_Expo
+
+273: BlizzCon - Wikipedia
+https://en.wikipedia.org/wiki/BlizzCon
+
+274: QuakeCon - Wikipedia
+https://en.wikipedia.org/wiki/QuakeCon
+
+275: Nvision - Wikipedia
+https://en.wikipedia.org/wiki/Nvision
+
+276: X (Xbox show) - Wikipedia
+https://en.wikipedia.org/wiki/X_(Xbox_show)
+
+277: eSports - Wikipedia
+https://en.wikipedia.org/wiki/ESports
+
+278: Major League Gaming - Wikipedia
+https://en.wikipedia.org/wiki/Major_League_Gaming
+
+279: Strategy video game - Wikipedia
+https://en.wikipedia.org/wiki/Strategy_games_(computer_games)
+
+280: Copyright and video games - Wikipedia
+https://en.wikipedia.org/wiki/Copyright_and_video_games
+
+281: Computerspielemuseum Berlin - Wikipedia
+https://en.wikipedia.org/wiki/Computerspielemuseum_Berlin
+
+282: Museum of Soviet Arcade Machines - Wikipedia
+https://en.wikipedia.org/wiki/Museum_of_Soviet_Arcade_Machines
+
+283: Video Game Museum of Rome - Wikipedia
+https://en.wikipedia.org/wiki/Video_Game_Museum_of_Rome
+
+284: International Center for the History of Electronic Games - Wikipedia
+https://en.wikipedia.org/wiki/International_Center_for_the_History_of_Electronic_Games
+
+285: List of video games in the Museum of Modern Art - Wikipedia
+https://en.wikipedia.org/wiki/List_of_video_games_in_the_Museum_of_Modern_Art
+
+286: The Art of Video Games - Wikipedia
+https://en.wikipedia.org/wiki/The_Art_of_Video_Games
+
+287: List of accessories to video games by system - Wikipedia
+https://en.wikipedia.org/wiki/List_of_accessories_to_video_games_by_system
+
+288: Outline of video games - Wikipedia
+https://en.wikipedia.org/wiki/Outline_of_video_games
+
+289: Edge (magazine) - Wikipedia
+https://en.wikipedia.org/wiki/Edge_(magazine)
+
+290: Future plc - Wikipedia
+https://en.wikipedia.org/wiki/Future_plc
+
+291: Electronic Games - Wikipedia
+https://en.wikipedia.org/wiki/Electronic_Games
+
+292: Retro Gamer - Wikipedia
+https://en.wikipedia.org/wiki/Retro_Gamer
+
+293: Imagine Publishing - Wikipedia
+https://en.wikipedia.org/wiki/Imagine_Publishing
+
+294: Computer Gaming World - Wikipedia
+https://en.wikipedia.org/wiki/Computer_Gaming_World
+
+295: Gamasutra - Wikipedia
+https://en.wikipedia.org/wiki/Gamasutra
+
+296: Joystiq - Wikipedia
+https://en.wikipedia.org/wiki/Joystiq
+
+297: PC World - Wikipedia
+https://en.wikipedia.org/wiki/PC_World_(magazine)
+
+298: Game - Wikipedia
+https://en.wikipedia.org/wiki/Game
+
+299: Role-playing game - Wikipedia
+https://en.wikipedia.org/wiki/Role-playing_game
+
+300: List of video game genres - Wikipedia
+https://en.wikipedia.org/wiki/List_of_video_game_genres
+
+301: Hack and slash - Wikipedia
+https://en.wikipedia.org/wiki/Hack_and_slash
+
+302: List of maze video games - Wikipedia
+https://en.wikipedia.org/wiki/List_of_maze_video_games
+
+303: List of Pac-Man clones - Wikipedia
+https://en.wikipedia.org/wiki/List_of_Pac-Man_clones
+
+304: Third-person shooter - Wikipedia
+https://en.wikipedia.org/wiki/Third-person_shooter
+
+305: Shoot 'em up - Wikipedia
+https://en.wikipedia.org/wiki/Side-scrolling_shooter
+
+306: Shoot 'em up - Wikipedia
+https://en.wikipedia.org/wiki/Top-down_shooter
+
+307: Shoot 'em up - Wikipedia
+https://en.wikipedia.org/wiki/Isometric_shooter
+
+308: Light gun shooter - Wikipedia
+https://en.wikipedia.org/wiki/Light_gun_shooter
+
+309: Shoot 'em up - Wikipedia
+https://en.wikipedia.org/wiki/Shoot_%27em_up
+
+310: Tactical shooter - Wikipedia
+https://en.wikipedia.org/wiki/Tactical_shooter
+
+311: Battle royale game - Wikipedia
+https://en.wikipedia.org/wiki/Battle_royale_game
+
+312: Grand Theft Auto clone - Wikipedia
+https://en.wikipedia.org/wiki/Grand_Theft_Auto_clone
+
+313: Metroidvania - Wikipedia
+https://en.wikipedia.org/wiki/Metroidvania
+
+314: Psychological horror - Wikipedia
+https://en.wikipedia.org/wiki/Psychological_horror
+
+315: Escape the room - Wikipedia
+https://en.wikipedia.org/wiki/Escape_the_room
+
+316: Massively multiplayer online first-person shooter game - Wikipedia
+https://en.wikipedia.org/wiki/Massively_multiplayer_online_first-person_shooter_game
+
+317: Dungeon crawl - Wikipedia
+https://en.wikipedia.org/wiki/Dungeon_crawl
+
+318: Roguelike - Wikipedia
+https://en.wikipedia.org/wiki/Roguelike
+
+319: Business simulation game - Wikipedia
+https://en.wikipedia.org/wiki/Business_simulation_game
+
+320: City-building game - Wikipedia
+https://en.wikipedia.org/wiki/City-building_game
+
+321: Social simulation game - Wikipedia
+https://en.wikipedia.org/wiki/Social_simulation_game
+
+322: 4X - Wikipedia
+https://en.wikipedia.org/wiki/4X
+
+323: Wargame (video games) - Wikipedia
+https://en.wikipedia.org/wiki/Wargame_(video_games)
+
+324: Amateur flight simulation - Wikipedia
+https://en.wikipedia.org/wiki/Amateur_flight_simulation
+
+325: Combat flight simulator - Wikipedia
+https://en.wikipedia.org/wiki/Combat_flight_simulator
+
+326: Space flight simulation game - Wikipedia
+https://en.wikipedia.org/wiki/Space_flight_simulation_game
+
+327: Racing video game - Wikipedia
+https://en.wikipedia.org/wiki/Racing_video_game
+
+328: Sim racing - Wikipedia
+https://en.wikipedia.org/wiki/Sim_racing
+
+329: Train simulator - Wikipedia
+https://en.wikipedia.org/wiki/Train_simulator
+
+330: List of vehicular combat games - Wikipedia
+https://en.wikipedia.org/wiki/Vehicular_combat_game
+
+331: Artillery game - Wikipedia
+https://en.wikipedia.org/wiki/Artillery_game
+
+332: Breakout clone - Wikipedia
+https://en.wikipedia.org/wiki/Breakout_clone
+
+333: Eroge - Wikipedia
+https://en.wikipedia.org/wiki/Eroge
+
+334: Music video game - Wikipedia
+https://en.wikipedia.org/wiki/Music_video_game
+
+335: Rhythm game - Wikipedia
+https://en.wikipedia.org/wiki/Rhythm_game
+
+336: Non-game - Wikipedia
+https://en.wikipedia.org/wiki/Non-game
+
+337: Advertising in video games - Wikipedia
+https://en.wikipedia.org/wiki/Advertising_in_video_games
+
+338: Art game - Wikipedia
+https://en.wikipedia.org/wiki/Art_game
+
+339: Christian video game - Wikipedia
+https://en.wikipedia.org/wiki/Christian_video_game
+
+340: List of crossovers in video games - Wikipedia
+https://en.wikipedia.org/wiki/Crossovers_in_video_games
+
+341: Cult video game - Wikipedia
+https://en.wikipedia.org/wiki/Cult_video_game
+
+342: Full motion video - Wikipedia
+https://en.wikipedia.org/wiki/Full_motion_video
+
+343: Indie game - Wikipedia
+https://en.wikipedia.org/wiki/Indie_game
+
+344: Nonlinear gameplay - Wikipedia
+https://en.wikipedia.org/wiki/Nonlinear_gameplay
+
+345: Open world - Wikipedia
+https://en.wikipedia.org/wiki/Open_world
+
+346: Nonviolent video game - Wikipedia
+https://en.wikipedia.org/wiki/Nonviolent_video_game
+
+347: Browser game - Wikipedia
+https://en.wikipedia.org/wiki/Browser_game
+
+348: Multiplayer video game - Wikipedia
+https://en.wikipedia.org/wiki/Multiplayer_online_game
+
+349: Toys-to-life - Wikipedia
+https://en.wikipedia.org/wiki/Toys-to-life
+
+350: Twitch gameplay - Wikipedia
+https://en.wikipedia.org/wiki/Twitch_gameplay_(reaction_time)
+
+351: Video game clone - Wikipedia
+https://en.wikipedia.org/wiki/Video_game_clone
+
+352: Timeline of arcade video game history - Wikipedia
+https://en.wikipedia.org/wiki/Timeline_of_arcade_video_game_history
+
+353: Video game crash of 1983 - Wikipedia
+https://en.wikipedia.org/wiki/Video_game_crash_of_1983
+
+354: Early mainframe games - Wikipedia
+https://en.wikipedia.org/wiki/Early_mainframe_games
+
+355: 1970s in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1970s_in_video_gaming
+
+356: 1971 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1971_in_video_gaming
+
+357: 1972 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1972_in_video_gaming
+
+358: 1973 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1973_in_video_gaming
+
+359: 1974 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1974_in_video_gaming
+
+360: 1975 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1975_in_video_gaming
+
+361: 1976 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1976_in_video_gaming
+
+362: 1977 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1977_in_video_gaming
+
+363: 1978 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1978_in_video_gaming
+
+364: 1979 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1979_in_video_gaming
+
+365: 1980s in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1980s_in_video_gaming
+
+366: 1980 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1980_in_video_gaming
+
+367: 1981 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1981_in_video_gaming
+
+368: 1982 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1982_in_video_gaming
+
+369: 1983 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1983_in_video_gaming
+
+370: 1984 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1984_in_video_gaming
+
+371: 1985 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1985_in_video_gaming
+
+372: 1986 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1986_in_video_gaming
+
+373: 1987 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1987_in_video_gaming
+
+374: 1988 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1988_in_video_gaming
+
+375: 1989 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1989_in_video_gaming
+
+376: 1990s in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1990s_in_video_gaming
+
+377: 1990 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1990_in_video_gaming
+
+378: 1991 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1991_in_video_gaming
+
+379: 1992 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1992_in_video_gaming
+
+380: 1993 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1993_in_video_gaming
+
+381: 1994 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1994_in_video_gaming
+
+382: 1995 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1995_in_video_gaming
+
+383: 1996 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1996_in_video_gaming
+
+384: 1997 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1997_in_video_gaming
+
+385: 1998 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1998_in_video_gaming
+
+386: 1999 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/1999_in_video_gaming
+
+387: 2000s in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/2000s_in_video_gaming
+
+388: 2000 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/2000_in_video_gaming
+
+389: 2001 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/2001_in_video_gaming
+
+390: 2002 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/2002_in_video_gaming
+
+391: 2003 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/2003_in_video_gaming
+
+392: 2004 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/2004_in_video_gaming
+
+393: 2005 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/2005_in_video_gaming
+
+394: 2006 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/2006_in_video_gaming
+
+395: 2007 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/2007_in_video_gaming
+
+396: 2008 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/2008_in_video_gaming
+
+397: 2009 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/2009_in_video_gaming
+
+398: 2010s in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/2010s_in_video_gaming
+
+399: 2010 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/2010_in_video_gaming
+
+400: 2011 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/2011_in_video_gaming
+
+401: 2012 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/2012_in_video_gaming
+
+402: 2013 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/2013_in_video_gaming
+
+403: 2014 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/2014_in_video_gaming
+
+404: 2015 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/2015_in_video_gaming
+
+405: 2016 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/2016_in_video_gaming
+
+406: 2017 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/2017_in_video_gaming
+
+407: 2018 in video gaming - Wikipedia
+https://en.wikipedia.org/wiki/2018_in_video_gaming
+
+408: List of video games in development - Wikipedia
+https://en.wikipedia.org/wiki/List_of_video_games_in_development
+
+409: First generation of video game consoles - Wikipedia
+https://en.wikipedia.org/wiki/First_generation_of_video_game_consoles
+
+410: Second generation of video game consoles - Wikipedia
+https://en.wikipedia.org/wiki/Second_generation_of_video_game_consoles
+
+411: Third generation of video game consoles - Wikipedia
+https://en.wikipedia.org/wiki/Third_generation_of_video_game_consoles
+
+412: Fourth generation of video game consoles - Wikipedia
+https://en.wikipedia.org/wiki/Fourth_generation_of_video_game_consoles
+
+413: Fifth generation of video game consoles - Wikipedia
+https://en.wikipedia.org/wiki/Fifth_generation_of_video_game_consoles
+
+414: Sixth generation of video game consoles - Wikipedia
+https://en.wikipedia.org/wiki/Sixth_generation_of_video_game_consoles
+
+415: Seventh generation of video game consoles - Wikipedia
+https://en.wikipedia.org/wiki/Seventh_generation_of_video_game_consoles
+
+416: Eighth generation of video game consoles - Wikipedia
+https://en.wikipedia.org/wiki/Eighth_generation_of_video_game_consoles
+
+417: Video gaming in Australia - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_Australia
+
+418: Video gaming in Bangladesh - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_Bangladesh
+
+419: Video gaming in Belgium - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_Belgium
+
+420: Video gaming in Brazil - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_Brazil
+
+421: Video gaming in Canada - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_Canada
+
+422: Video gaming in China - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_China
+
+423: Video gaming in the Czech Republic - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_the_Czech_Republic
+
+424: Video gaming in Colombia - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_Colombia
+
+425: Video gaming in Finland - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_Finland
+
+426: Video gaming in France - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_France
+
+427: Video gaming in Germany - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_Germany
+
+428: Video gaming in Ghana - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_Ghana
+
+429: Video gaming in India - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_India
+
+430: Video gaming in the Republic of Ireland - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_the_Republic_of_Ireland
+
+431: Video gaming in Lithuania - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_Lithuania
+
+432: Video gaming in Kenya - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_Kenya
+
+433: Video gaming in Malaysia - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_Malaysia
+
+434: Video gaming in the Netherlands - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_the_Netherlands
+
+435: Video gaming in New Zealand - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_New_Zealand
+
+436: Video gaming in Nigeria - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_Nigeria
+
+437: Video gaming in the Philippines - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_the_Philippines
+
+438: Video gaming in Russia - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_Russia
+
+439: Video gaming in South Africa - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_South_Africa
+
+440: Video gaming in Thailand - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_Thailand
+
+441: Video gaming in Turkey - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_Turkey
+
+442: Video gaming in Ukraine - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_Ukraine
+
+443: Video gaming in the United Kingdom - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_the_United_Kingdom
+
+444: Video gaming in the United States - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming_in_the_United_States
+
+445: Simulation - Wikipedia
+https://en.wikipedia.org/wiki/Computer_generated_reality
+
+446: Virtual reality headset - Wikipedia
+https://en.wikipedia.org/wiki/Virtual_reality_headset
+
+447: Video game - Wikipedia
+https://en.wikipedia.org/wiki/Video_gaming
+
+448: Immersion (virtual reality) - Wikipedia
+https://en.wikipedia.org/wiki/Immersion_(virtual_reality)
+
+449: Microsoft HoloLens - Wikipedia
+https://en.wikipedia.org/wiki/HoloLens
+
+450: Magic Leap - Wikipedia
+https://en.wikipedia.org/wiki/Magic_Leap
+
+451: Open-source model - Wikipedia
+https://en.wikipedia.org/wiki/Open-source
+
+452: Gyroscope - Wikipedia
+https://en.wikipedia.org/wiki/Gyroscope
+
+453: Stereoscopy - Wikipedia
+https://en.wikipedia.org/wiki/Stereoscopic
+
+454: Central processing unit - Wikipedia
+https://en.wikipedia.org/wiki/Processors
+
+455: The Matrix - Wikipedia
+https://en.wikipedia.org/wiki/The_Matrix
+
+456: Machine - Wikipedia
+https://en.wikipedia.org/wiki/Machine
+
+457: Battlezone (1980 video game) - Wikipedia
+https://en.wikipedia.org/wiki/Battlezone_(1980_video_game)
+
+458: Jaron Lanier - Wikipedia
+https://en.wikipedia.org/wiki/Jaron_Lanier
+
+459: Mattel - Wikipedia
+https://en.wikipedia.org/wiki/Mattel
+
+460: Sega - Wikipedia
+https://en.wikipedia.org/wiki/Sega
+
+461: Sega VR - Wikipedia
+https://en.wikipedia.org/wiki/Sega_VR
+
+462: Sega Genesis - Wikipedia
+https://en.wikipedia.org/wiki/Mega_Drive
+
+463: Liquid-crystal display - Wikipedia
+https://en.wikipedia.org/wiki/Liquid_crystal_display
+
+464: Virtuality (gaming) - Wikipedia
+https://en.wikipedia.org/wiki/Virtuality_(gaming)
+
+465: SegaWorld - Wikipedia
+https://en.wikipedia.org/wiki/SegaWorld
+
+466: Stereoscopic video game - Wikipedia
+https://en.wikipedia.org/wiki/Stereoscopic_video_game
+
+467: List of Sega arcade system boards - Wikipedia
+https://en.wikipedia.org/wiki/Sega_Model_1
+
+468: Arcade system board - Wikipedia
+https://en.wikipedia.org/wiki/Arcade_system_board
+
+469: Virtual Boy - Wikipedia
+https://en.wikipedia.org/wiki/Virtual_Boy
+
+470: Netscape - Wikipedia
+https://en.wikipedia.org/wiki/Netscape
+
+471: VFX1 Headgear - Wikipedia
+https://en.wikipedia.org/wiki/VFX1_Headgear
+
+472: Descent (video game) - Wikipedia
+https://en.wikipedia.org/wiki/Descent_(video_game)
+
+473: Star Wars Dark Forces - Wikipedia
+https://en.wikipedia.org/wiki/Star_Wars:_Dark_Forces
+
+474: System Shock - Wikipedia
+https://en.wikipedia.org/wiki/System_Shock
+
+475: Quake (video game) - Wikipedia
+https://en.wikipedia.org/wiki/Quake_(video_game)
+
+476: Oculus Rift - Wikipedia
+https://en.wikipedia.org/wiki/Oculus_Rift
+
+477: Oculus VR - Wikipedia
+https://en.wikipedia.org/wiki/Oculus_VR
+
+478: Facebook - Wikipedia
+https://en.wikipedia.org/wiki/Facebook
+
+479: Palmer Luckey - Wikipedia
+https://en.wikipedia.org/wiki/Palmer_Luckey
+
+480: Kickstarter - Wikipedia
+https://en.wikipedia.org/wiki/Kickstarter
+
+481: PlayStation VR - Wikipedia
+https://en.wikipedia.org/wiki/PlayStation_VR
+
+482: Google Cardboard - Wikipedia
+https://en.wikipedia.org/wiki/Google_Cardboard
+
+483: HTC - Wikipedia
+https://en.wikipedia.org/wiki/HTC
+
+484: HTC Vive - Wikipedia
+https://en.wikipedia.org/wiki/HTC_Vive
+
+485: 3D audio effect - Wikipedia
+https://en.wikipedia.org/wiki/3D_audio_effect
+
+486: Wii Remote - Wikipedia
+https://en.wikipedia.org/wiki/Wii_Remote
+
+487: PlayStation Move - Wikipedia
+https://en.wikipedia.org/wiki/PlayStation_Move
+
+488: Vendetta Online - Wikipedia
+https://en.wikipedia.org/wiki/Vendetta_Online
+
+489: Massively multiplayer online role-playing game - Wikipedia
+https://en.wikipedia.org/wiki/MMORPG
+
+490: Virtuix Omni - Wikipedia
+https://en.wikipedia.org/wiki/Virtuix_Omni
+
+491: Mojang - Wikipedia
+https://en.wikipedia.org/wiki/Mojang
+
+492: Samsung Gear VR - Wikipedia
+https://en.wikipedia.org/wiki/Samsung_Gear_VR
+
+493: Star Wars - Wikipedia
+https://en.wikipedia.org/wiki/Star_Wars
+
+494: Skybound Entertainment - Wikipedia
+https://en.wikipedia.org/wiki/Skybound
+
+495: TV Everywhere - Wikipedia
+https://en.wikipedia.org/wiki/TV_Everywhere
+
+496: Virtual reality therapy - Wikipedia
+https://en.wikipedia.org/wiki/Virtual_reality_exposure_therapy
+
+497: Rebecca Allen (artist) - Wikipedia
+https://en.wikipedia.org/wiki/Rebecca_Allen_(artist)
+
+498: Music visualization - Wikipedia
+https://en.wikipedia.org/wiki/Music_visualization
+
+499: Ready Player One - Wikipedia
+https://en.wikipedia.org/wiki/Ready_Player_One
+
+500: Virtual reality sickness - Wikipedia
+https://en.wikipedia.org/wiki/Virtual_reality_sickness
+
