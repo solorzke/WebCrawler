@@ -61,16 +61,26 @@ def is_url_valid(url):
         return False
     if re.search('/wiki/Portal:', url):
         return False
+    if re.search('/wiki/User_talk:', url):
+        return False
+    if re.search('/wiki/Main_Page', url):
+        return False
     match = re.search('^/wiki/',url)
     if match:
         return True
     else:
         return False
 
+'''Save a page'''
+def save(text, path):
+    f = open(path, 'w', encoding = 'utf-8', errors = 'ignore')
+    f.write(text)
+    f.close()
 
-seedOne = "/wiki/Information_retrieval"
-seedTwo = "/wiki/Information"
-relatedTerms = "information search retrieve cognitive memory science method research history review process fact model mapping world content"
+
+seedOne = "/wiki/Video_game"
+seedTwo = "/wiki/Virtual_reality"
+relatedTerms = " gaming , xbox , playstation , console , jrpg , rpg , sega , nintendo , gpu , video-game , cartridge , controller , oculus , vive , halo , bungie , usb , disk , valve , pc , dualshock , gameboy , arcade , graphics , atari "
 seedList = [seedOne, seedTwo]
 
 queue = []
@@ -84,7 +94,7 @@ for url in seedList:
 
 i = 1
 while queue:
-    url = queue.pop()
+    url = queue.pop(0)
     url = "https://en.wikipedia.org" + url
     pageContent = get_page_content(url)
     if pageContent is None:
@@ -93,17 +103,19 @@ while queue:
     soup = BeautifulSoup(pageContent, 'html.parser')
     page_text = soup.get_text()
     
-    for term in relatedTerms.split():
+    for term in relatedTerms.split(','):
         '''Check whether a term is included in the page text'''
-        if re.search(term, page_text, re.I):
+        if term in page_text.lower():
+            #print("Current term: " + term + " url: " + url)
             termCounter = termCounter + 1
             if termCounter >= 2:
                    title = soup.title.string
                    pageTitle = clean_title(title)
                    #In case, place save function here!
-                   savedUrlList.append(url)
+                   save(str(soup), 'crawled_html_pages/' + pageTitle + '.html') 
+                   savedUrlList.append(pageTitle + "\n" + url)
                    pageCounter = pageCounter + 1
-                   print("page " + str(pageCounter) + ": " + url)
+                   print("page " + str(pageCounter) + ": " + pageTitle +"\n" + url)
                    break
     if pageCounter >= 500:
         break
@@ -116,7 +128,21 @@ while queue:
     
 f = open("crawled_urls.txt","w")
 i = 1
+tof = False
 for url in savedUrlList:
-    f.write(str(i) + ': ' + url + '\n')
-    i += 1
+    strcleaned = ''.join([x for x in url if ord(x) < 128])
+    f.write(str(i) + ": " + strcleaned + "\n\n")
+    i = i + 1
+    '''
+    if i % 2 == 0:
+        f.write(strcleaned)
+        f.write("\n\n")
+        continue
+    
+    else:
+        f.write(str(i) + ': ' + strcleaned)
+        f.write("\n")
+        i = i + 1
+        continue
+    '''    
 f.close()       
