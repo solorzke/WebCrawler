@@ -39,7 +39,6 @@ def get_urls(soup):
 
 
 '''Check if a URL is Valid'''
-'''Check if a URL is Valid'''
 def is_url_valid(url):
     if url is None:
         return False
@@ -105,14 +104,13 @@ while queue:
     
     for term in relatedTerms.split(','):
         '''Check whether a term is included in the page text'''
-        if term in page_text.lower():
-            #print("Current term: " + term + " url: " + url)
+        if term.lower() in page_text.lower():
             termCounter = termCounter + 1
             if termCounter >= 2:
                    title = soup.title.string
                    pageTitle = clean_title(title)
                    #In case, place save function here!
-                   save(str(soup), 'crawled_html_pages/' + pageTitle + '.html') 
+                   save(str(soup), '../crawled_html_pages/' + pageTitle + '.html') 
                    savedUrlList.append(pageTitle + "\n" + url)
                    pageCounter = pageCounter + 1
                    print("page " + str(pageCounter) + ": " + pageTitle +"\n" + url)
@@ -125,7 +123,8 @@ while queue:
         if is_url_valid(outGoingUrl) and outGoingUrl not in visitedUrls:
             queue.append(outGoingUrl)
             visitedUrls.append(outGoingUrl)
-    
+
+
 f = open("crawled_urls.txt","w")
 i = 1
 for url in savedUrlList:
@@ -134,3 +133,4 @@ for url in savedUrlList:
     i = i + 1
    
 f.close()       
+
